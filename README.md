@@ -85,10 +85,9 @@ done
 ```
 
 ```text
-把这篇论文做成中文 journal-club PPT。
+把这篇论文做成中文PPT。
 ```
 
-更完整的安装说明和排错笔记见 [`install.md`](install.md)。
 
 ### 目录结构
 
