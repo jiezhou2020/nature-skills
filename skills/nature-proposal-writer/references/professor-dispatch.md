@@ -110,10 +110,11 @@ permanence_candidate: 无（首次调用）
 **Dispatch input**:
 
 ```text
-task_context: "正在构建 NaCl-KCl-MgCl2-ZnCl2 四元氯盐研究计划第一部分的
-              foundation 文件。已建立 research_canon（7条文献事实 + 2条龚庆约束 +
-              热力学模拟边界声明）和 evidence_table（12条 claim-evidence 映射）。
-              现在 argument_map 初稿完成，需要审查后再写 section contracts。"
+task_context: "Building foundation files for a materials science research project
+              Part 1. Established research_canon (7 literature facts + 2 supervisor
+              constraints + thermodynamic boundary declarations) and evidence_table
+              (12 claim-evidence mappings). Argument map draft complete, needs
+              review before writing section contracts."
 
 current_mode: compose (foundation review 阶段)
 

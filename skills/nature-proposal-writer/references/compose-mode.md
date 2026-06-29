@@ -37,7 +37,7 @@ When JL is working from an existing 本子 (approved project blueprint) rather t
 | P1 | core scientific question, existing evidence, required content, forbidden claims, target style | ask if unknown or ambiguous |
 | P2 | word count, format requirements, reference template, timeline | ask only if JL volunteers or the task clearly requires it |
 
-**Rule**: only ask questions whose answers change the writing path. If JL says "写一个氯盐腐蚀的 proposal" and you already know it's a doctoral research plan for Gong Qing from context, don't ask "什么文本类型" — confirm the assumption: "我假设这是给龚庆看的博士研究计划，语言中文，范围是整个四元氯盐第一部分。对吗？"
+**Rule**: only ask questions whose answers change the writing path. If the user says "write a proposal about corrosion" and you already know from context it's a doctoral research plan for their supervisor, don't ask "what document type" — confirm the assumption: "I assume this is a doctoral research proposal for your supervisor, in Chinese, covering the first part of the project. Correct?"
 
 ---
 
