@@ -665,4 +665,4 @@ description: >-
 
 ## 8. Star 历史
 
-[![Star History Chart](assets/star-history-20261113T093331Z.svg)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
+[![Star History Chart](assets/star-history-20261116T094645Z.svg)](https://star-history.com/#Yuan1z0825/nature-skills&Date)
